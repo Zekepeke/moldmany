@@ -25,6 +25,7 @@ This project uses a **Bigram model**, which:
 **Training on simple names dataset:**
 
 Input: ['emma', 'noah', 'liam', 'olivia']
+
 Output: 'nolia', 'olmah', 'emvia', ...
 
 Sometimes there is a gem, sometimes you get gibberish but it's all part of the game.
